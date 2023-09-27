@@ -19,9 +19,6 @@ public class Main {
             } else {
                 System.out.println("You get an other otter!");
             }
-        } else {
-            System.out.println("That isnt' a proper answer.");
-            System.exit(0);
         }
     }
 }
